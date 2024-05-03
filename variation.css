@@ -52,18 +52,11 @@ table {
 }
 
 
-/* ==== COVER STYLES ==== */
+/* ==== PICTURE STYLES ==== */
 
 
-.cover {
-  background: url('assets/zen-stones.webp') no-repeat center;
-  background-size: cover;
-  height: 45vh;
+#picture {
   width: 100%;
-  color: hsl(0, 0%, 0%);
-  font-family: 'Cormorant Garamond', serif;
-  text-align: center;
-  display: table;
 }
 
 /* ==== HTML ATTRIBUTE STYLES ==== */
